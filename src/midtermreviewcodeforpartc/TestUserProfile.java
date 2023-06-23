@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//this is the comment im adding 
 public class TestUserProfile {
     public static void main(String[] args) {
         // Display the available genres
